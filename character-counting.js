@@ -3,7 +3,6 @@
 // // and reports how many instances each letter is found in the string
 // //returns an object that can represent the stats for the sentence it is given: all characters found in
 // //input string.
-
 //hint: perhaps return an object where each unique character is a property of an object. and the value for that property/key should be the number of occurences for that character.
 
 var lighthouse = process.argv[2];
